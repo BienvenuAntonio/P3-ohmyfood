@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmrejen/ohmyfood.git"
+    "url": "https://github.com/BienvenuAntonio/P3-ohmyfood"
   },
   "author": "Bienvenu Antonio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmrejen/ohmyfood/issues"
+    "url": "https://github.com/BienvenuAntonio/P3-ohmyfood/issues"
   },
-  "homepage": "https://github.com/bmrejen/ohmyfood#readme",
+  "homepage": "https://github.com/BienvenuAntonio/P3-ohmyfood/blob/main/README.md",
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "cssnano": "^5.0.9",
